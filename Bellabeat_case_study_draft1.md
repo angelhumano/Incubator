@@ -1970,7 +1970,7 @@ levels may not fully offset the increased body fat from prolonged
 sitting
 [2](https://www.sciencedirect.com/science/article/pii/S2095254622001016).
 
-#### Calories:Total estimated energy expenditure (in kilocalories).
+#### Calories: Total estimated energy expenditure (in kilocalories).
 
 ``` r
 # Create a boxplot for calories
