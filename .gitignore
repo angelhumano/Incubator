@@ -1,0 +1,19 @@
+# Ignore .DS_Store files
+.DS_Store
+
+#Ignore presentation and Python code
+*.pptx
+*.ipynb
+# Ignore a directory called 'temp'
+/temp
+
+# Ignore log files
+*.log
+
+#Ignore R code
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+.nb.html
